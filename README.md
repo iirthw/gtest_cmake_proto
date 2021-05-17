@@ -1,7 +1,7 @@
 # gtest_proto
 A prototype (template) repo for a simple project integrated with googletest (gtest) https://github.com/google/googletest
 
-Setting up a new project with cmake and gtest is know to be a rather cumbersome task due to a relatively large amount of boilerplate cmake code to be added before being able to setup the project.
+Setting up a new project with cmake and gtest is know to be a rather cumbersome task (not for everyone though, but definitively for me 🐒) due to a relatively large amount of boilerplate cmake code to be added before being able to setup the project.
 This template project is created in order to mitigate the aforementioned issue with the boilerplate cmake code.
 
 The project provides the following:
