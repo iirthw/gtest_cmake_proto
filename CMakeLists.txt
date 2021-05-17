@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.19)
 
 set(CMAKE_CXX_STANDARD 14)
-project(paleolithic_coding)
+project(foobar)
 
 # Group CMake predefined targets in one VS folder
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
