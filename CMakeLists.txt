@@ -1,10 +1,10 @@
-cmake_minimum_required(VERSION 3.19)
+cmake_minimum_required (VERSION 3.19)
 
-set(CMAKE_CXX_STANDARD 14)
-project(foobar)
+set (CMAKE_CXX_STANDARD 14)
+project (foobar)
 
 # Group CMake predefined targets in one VS folder
-set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+set_property (GLOBAL PROPERTY USE_FOLDERS ON)
 
-add_subdirectory(lib)
-add_subdirectory(test)
+add_subdirectory (lib)
+add_subdirectory (test)
